@@ -83,6 +83,7 @@ nav li a:hover {
             position: fixed;
             height: auto;
             overflow: auto;
+            text-align: center;
           
         background: linear-gradient(
             rgba(249,107,142,1),
@@ -90,12 +91,13 @@ nav li a:hover {
             rgba(138,125,254,1)
         );
         padding-top: -3em;
-        margin-top: -45px;
+        margin-top: -10px;
         
     }
 }
 
 .tilesWrap {
+    float: right;
     
 	padding: 0;
 	margin: 50px auto;
