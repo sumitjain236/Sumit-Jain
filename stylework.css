@@ -127,6 +127,7 @@ nav li a:hover {
 .tilesWrap li h2 {
 	font-size: 114px;
 	margin: 0;
+    color: #cecfd1;
 	position: absolute;
 	opacity: 0.2;
 	top: 50px;
