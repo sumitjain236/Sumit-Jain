@@ -90,7 +90,7 @@ nav li a:hover {
             rgba(218,103,230,1),
             rgba(138,125,254,1)
         );
-        padding-top: -3em;
+        padding-top: 3em;
         margin-top: -10px;
         
     }
@@ -109,7 +109,7 @@ nav li a:hover {
 	width: 20%;
 	min-width: 160px;
 	max-width: 200px;
-	padding: 30px;
+	padding: 80px 40px 40px 20px;
 	position: relative;
 	vertical-align: top;
 	margin: 10px;
