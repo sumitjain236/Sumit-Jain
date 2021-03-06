@@ -2,6 +2,8 @@
 body{
     font-family: 'Nunito',sans-serif ;
     background: #EFF1F7;
+    background-image: url(background.png);
+    
 }
 .content{
     grid-area: content;
