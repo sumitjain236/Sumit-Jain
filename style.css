@@ -211,6 +211,7 @@ svg{
     svg{
         width: 50%;
     }
+    
 
 }
 
@@ -218,8 +219,9 @@ svg{
     position: absolute;
     top: 50%;
     left: 50%;
-    width: 400px;
-    padding: 40px;
+    margin-top: 60px;
+    width: 300px;
+    padding: 20px;
     transform: translate(-50%, -50%);
     background: rgb(41, 33, 33);
     box-sizing: border-box;
@@ -372,5 +374,18 @@ svg{
       bottom: 100%;
     }
   }
-  
-
+  @media(min-width:1290px){
+  .login-box {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 400px;
+    padding: 40px;
+    transform: translate(-50%, -50%);
+    background: rgb(41, 33, 33);
+    box-sizing: border-box;
+    box-shadow: 0 15px 25px rgba(27, 19, 19, 0.6);
+    border-radius: 10px;
+    margin-top: 10px;
+  }
+}
